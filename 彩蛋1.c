@@ -9,7 +9,7 @@ int main()
                      printf("egg-%d\n",i); /* print egg-1
                                                     egg-2
                                                     ...
-                                                    egg-3
+                                                    egg-9
                                            */
     }
     
